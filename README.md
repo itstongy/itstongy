@@ -1,4 +1,4 @@
-# Hi, I’m Harrison (itstongy)
+# Hi, I’m Harrison 👋
 
 Heres some small, practical tools that make day-to-day life smoother.
 
