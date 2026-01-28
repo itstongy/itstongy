@@ -15,6 +15,9 @@ Heres some small, practical tools that make day-to-day life smoother.
 - 🌧️ **bom-nowcast** — Node.js CLI that fetches BOM radar frames over HTTPS, renders a human-friendly loop (with emoji pins), and runs a basic nowcast/ETA.  
   - Repo: https://github.com/itstongy/Bom-NowCast  [oai_citation:3‡GitHub](https://github.com/itstongy/Bom-NowCast)
 
+- 💊 **Days Since (for Pharmacists)** — quick “days since supply” calculator with optional tablets/day and a visual gauge (static site; works great with a browser search shortcut).
+  - Repo: https://github.com/itstongy/Days-Since-for-Pharmacists
+
 
 ## Links
 
