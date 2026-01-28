@@ -5,18 +5,12 @@ Heres some small, practical tools that make day-to-day life smoother.
 ## Tools
 
 - ☕ **[Coffee Grinder Dialer](https://itstongy.github.io/CoffeeGrindDialer/)** — a retro-inspired espresso shot logger + grinder dial-in helper (static site; persists via `localStorage`).  
-  - Repo: https://github.com/itstongy/CoffeeGrindDialer  
-  - Live: https://itstongy.github.io/CoffeeGrindDialer/  [oai_citation:1‡GitHub](https://github.com/itstongy/CoffeeGrindDialer)
 
 - 🍽️ **[Weekly Meal Planner](https://itstongy.github.io/WeeklyMealPlanner/)** — lightweight, client-side meal planning for two people (extendable): attendance tracking, leftovers logic, suggestions, meal library, and exports (JSON/CSV/ICS).  
-  - Repo: https://github.com/itstongy/WeeklyMealPlanner  
-  - Live: https://itstongy.github.io/WeeklyMealPlanner/  [oai_citation:2‡GitHub](https://github.com/itstongy/WeeklyMealPlanner)
 
 - 🌧️ **[bom-nowcast](https://github.com/itstongy/Bom-NowCast)** — Node.js CLI that fetches BOM radar frames over HTTPS, renders a human-friendly loop (with emoji pins), and runs a basic nowcast/ETA.  
-  - Repo: https://github.com/itstongy/Bom-NowCast  [oai_citation:3‡GitHub](https://github.com/itstongy/Bom-NowCast)
 
 - 💊 **[Days Since (for Pharmacists)](https://itstongy.github.io/Days-Since-for-Pharmacists/)** — quick “days since supply” calculator with optional tablets/day and a visual gauge (static site; works great with a browser search shortcut).
-  - Repo: https://github.com/itstongy/Days-Since-for-Pharmacists
 
 
 ## Links
