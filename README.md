@@ -12,6 +12,8 @@ Heres some small, practical tools that make day-to-day life smoother.
 
 - 💊 **[Days Since (for Pharmacists)](https://itstongy.github.io/Days-Since-for-Pharmacists/)** — quick “days since supply” calculator with optional tablets/day and a visual gauge (static site; works great with a browser search shortcut).
 
+- 🧾 **[xSone Taper Handout Builder](https://itstongy.github.io/xSoneTaperHandoutBuilder/)** — pharmacist-friendly taper handout generator for prednisone/prednisolone with a print-ready checklist.
+
 
 ## Links
 
