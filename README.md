@@ -3,7 +3,7 @@
 Here's some small, practical tools that make day-to-day life smoother.
 
 ## Tools
-- 🛰️ **[Australian BOM Weather for Raycast](https://github.com/itstongy/australian-bom-weather)** — Raycast extension for Australian weather radars and quick BOM radar access from the command bar.
+- 🛰️ **[Australian BOM Weather for Raycast](https://github.com/itstongy/australian-bom-weather-raycast)** — Raycast extension for Australian weather radars and quick BOM radar access from the command bar.
 
 - 🧮 **[Invoice Flow CLI](https://github.com/itstongy/invoice-flow-cli)** — agent-friendly CLI for generating Australian invoice and quote PDFs, with GST-aware validation and JSON artifacts designed for agent workflows.
 
